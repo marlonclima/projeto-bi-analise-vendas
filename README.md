@@ -18,7 +18,6 @@ Análises realizadas:
 Nesta etapa foram adicionadas novas análises:
 
 - Lucro por categoria
-- Quantidade vendida por produto
 - Vendas por cidade
 - Melhorias visuais no dashboard
 
