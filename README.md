@@ -13,3 +13,13 @@ Análises realizadas:
 - Vendas por região
 - Top produtos
 - Evolução das vendas
+## AC2 - Evolução do Projeto
+
+Nesta etapa foram adicionadas novas análises:
+
+- Lucro por categoria
+- Quantidade vendida por produto
+- Vendas por cidade
+- Melhorias visuais no dashboard
+
+O objetivo foi aprofundar a análise de dados e gerar novos insights.
