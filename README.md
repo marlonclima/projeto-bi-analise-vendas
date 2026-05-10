@@ -22,3 +22,9 @@ Nesta etapa foram adicionadas novas análises:
 - Melhorias visuais no dashboard
 
 O objetivo foi aprofundar a análise de dados e gerar novos insights.
+
+## Ac3 Novas funcionalidades adcionadas 
+
+-Filtro interativo
+-Grafico de descontos
+-Grafico de vendas mes 
